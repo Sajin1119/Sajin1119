@@ -50,21 +50,7 @@
 
 ---
 
-# 📈 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sajin1119&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>---
 
 # 📊 Contribution Graph
 
