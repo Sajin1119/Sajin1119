@@ -1,29 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sajin;Backend+Architect;Python+%26+Django+Expert;Future+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=SAJIN;BACKEND+DEVELOPER;PYTHON+%2B+DJANGO" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sajin1119/Sajin1119/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</p>
 
 ---
 
-## 🌑 THE VOID: ABOUT ME
 <div align="left">
   <table border="0">
     <tr>
       <td width="60%" style="vertical-align: top;">
-        <p>I am a <b>Backend Developer</b> specializing in <b>Python and Django</b>. Currently focused on building secure, high-performance web architectures and exploring the React/Angular ecosystem.</p>
+        <p><b>// SYSTEM LOG</b></p>
+        <p>I build robust backend infrastructures using <b>Python & Django</b>. Currently bridging the gap between server-side logic and modern frontend frameworks like <b>Angular</b> and <b>React</b>.</p>
         <br>
-        <ul>
-          <li>🔭 <b>Mission:</b> Crafting scalable backend systems.</li>
-          <li>🌱 <b>Current Stack:</b> Django, Python, React, and SQL.</li>
-          <li>⚡ <b>Philosophy:</b> Write code that is as clean as it is functional.</li>
-          <li>🎯 <b>Goal:</b> Reaching the peak of Software Engineering.</li>
-        </ul>
+        <p>🚀 <b>Current Path:</b> Full-Stack Development & Cloud Architecture</p>
+        <p>📍 <b>Based in:</b> Trivandrum, India</p>
       </td>
       <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=8b949e" />
       </td>
     </tr>
   </table>
@@ -31,30 +23,26 @@
 
 ---
 
-## 🛠️ TECH ARSENAL
-<p align="center">
+### 🛠️ STACK
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,react,angular,html,css,bootstrap,mysql,sqlite,linux,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,js,react,angular,mysql,linux,git,github,vscode&theme=dark&perline=10" />
   </a>
 </p>
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+### 📊 ANALYTICS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sajin1119&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajin1119&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00F7FF&sideTitle=00F7FF&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sajin1119&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sajin1119&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=8b949e&icon_color=00F7FF" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajin1119&theme=tokyonight&hide_border=true&background=00000000&sideNums=00F7FF&sideTitle=00F7FF&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" />
 </p>
 
 ---
 
-## 🧬 ACTIVITY STREAM
+### 🧬 ACTIVITY
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajin1119&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=00F7FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajin1119&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000&color=00F7FF&line=00F7FF&point=00F7FF" width="100%" />
 </p>
 
 <p align="center">
@@ -63,20 +51,9 @@
 
 ---
 
-## 🌐 UPLINK
 <p align="center">
-  <a href="https://github.com/Sajin1119">
-    <img src="https://img.shields.io/badge/GitHub-101214?style=for-the-badge&logo=github&logoColor=00F7FF" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-101214?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sajin1119&label=SURVEILLANCE%20LOG&color=00F7FF&style=flat-square"/>
-</p>
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <a href="https://github.com/Sajin1119"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00F7FF" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00F7FF" /></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Sajin1119&label=SURVEILLANCE&color=00F7FF&style=flat-square"/>
 </p>
