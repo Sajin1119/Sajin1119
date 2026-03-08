@@ -1,66 +1,90 @@
 <h1 align="center">Hi 👋, I'm Sajin</h1>
-<h3 align="center">Software Engineer | Django Developer | India</h3>
+<h3 align="center">Backend Developer | Django | Python</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Django+Developer;Open+Source+Learner;Future+Full+Stack+Engineer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Backend+Developer;Open+Source+Learner;Future+Full+Stack+Engineer">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on **Django Projects**
-- 🌱 Learning **DSA & Backend Development**
-- 💻 Love building **Web Applications**
-- 🚀 Goal: Become a **Top Software Engineer**
+- 💻 Backend Developer focused on **Python & Django**
+- 🚀 Building **Web Applications**
+- 🎯 Goal: Become a **Top Software Engineer**
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-<a href="https://github.com/Sajin1119"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+<a href="https://github.com/Sajin1119">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
 
-### 🚀 Tech Stack
+# 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,react,git,github,vscode,mysql,sqlite,linux" />
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Sajin GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajin1119&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sajin1119&show_icons=true&theme=tokyonight" />
 
-### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajin1119&theme=tokyonight" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajin1119&theme=tokyonight)
-
----
-
-### 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sajin1119&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajin1119&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Sajin1119/Sajin1119/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# ⭐ Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Sajin1119&label=Profile%20views&color=0e75b6&style=flat"/>
 
 ---
 
