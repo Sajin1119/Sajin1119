@@ -7,85 +7,106 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💻 Backend Developer focused on **Python & Django**
 - 🚀 Building **Web Applications**
 - 🎯 Goal: Become a **Top Software Engineer**
 
 ---
-![](https://raw.githubusercontent.com/Sajin1119/Sajin1119/main/profile-3d-contrib/profile-green-animate.svg)
-# 🌐 Connect With Me
 
-<p align="left">
+## 🧊 3D Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sajin1119/Sajin1119/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/Sajin1119">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,react,git,github,vscode,mysql,sqlite,linux" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,react,git,github,vscode,mysql,sqlite,linux&theme=dark" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sajin1119&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sajin1119&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajin1119&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajin1119&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajin1119&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sajin1119&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sajin1119&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajin1119&theme=tokyo-night"/>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Sajin1119/Sajin1119/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
 
----
+<img src="https://github.com/Sajin1119/Sajin1119/blob/output/github-contribution-grid-snake-dark.svg"/>
 
-# ⭐ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Sajin1119&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-⭐ From [Sajin1119](https://github.com/Sajin1119)
+## ⭐ Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sajin1119&label=Profile%20views&color=00F7FF&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/Sajin1119">Sajin1119</a>
+</p>
