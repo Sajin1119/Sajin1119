@@ -14,7 +14,13 @@
 - 🎯 Goal: Become a **Top Software Engineer**
 
 ---
-![](https://raw.githubusercontent.com/Sajin1119/Sajin1119/main/profile-3d-contrib/profile-green-animate.svg)
+## 🧊 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sajin1119/Sajin1119/main/profile-3d-contrib/profile-night-rainbow.svg" width="700"/>
+
+</p>
 # 🌐 Connect With Me
 
 <p align="left">
