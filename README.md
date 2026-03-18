@@ -31,7 +31,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
+---
+# 🔢 LeetCode
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/YOUR_USERNAME)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Nunito&ext=contest)
 ---
 
 # 🚀 Tech Stack
